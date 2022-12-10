@@ -2,6 +2,10 @@
 
 This script allows you to add markers to the map on dmzintel.com and then save the data+code to the clipboard.
 
+The repo contains 106 points at the moment, mostly locked locations.
+
+![Map](https://raw.githubusercontent.com/PapaNaxos/dmzintel/main/dmzintel_points.PNG)
+
 ## Usage
 
 First, copy the code in [dmz_with_data.js](https://raw.githubusercontent.com/PapaNaxos/dmzintel/main/dmz_with_data.js) into your clipboard (select all then ctrl+c)
@@ -12,7 +16,13 @@ Now you can interact with the map and see all the points current available in th
 
 ## Adding your own points
 
-If you want to add your own points, just click anywhere on the map, and a blue marker will appear. Then set the name, count and type of point in the menu on the left (it appears above the filters). When those are set, click the 'add' button and your point will appear.
+If you want to add your own points, just click anywhere on the map, and a blue marker will appear. 
+
+![Marker](https://raw.githubusercontent.com/PapaNaxos/dmzintel/main/dmzintel_marker.PNG)
+
+Then set the name, count and type of point in the menu on the left (it appears above the filters). When those are set, click the 'add' button and your point will appear.
+
+![UI](https://raw.githubusercontent.com/PapaNaxos/dmzintel/main/dmzintel_ui.PNG)
 
 ## Saving your changes
 

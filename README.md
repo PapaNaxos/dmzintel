@@ -4,7 +4,7 @@ This script allows you to add markers to the map on dmzintel.com and then save t
 
 ## Usage
 
-First, copy the code in `dmz_with_data.js` into your clipboard (select all then ctrl+c)
+First, copy the code in [dmz_with_data.js](https://raw.githubusercontent.com/PapaNaxos/dmzintel/main/dmz_with_data.js) into your clipboard (select all then ctrl+c)
 
 Then go to https://www.dmzintel.com and open your browsers dev tools (usually F12). Go to the console and paste the code (ctrl+v).
 
